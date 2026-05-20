@@ -1,0 +1,58 @@
+# ===== Unity generated =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+ExportedObj/
+.consulo/
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ===== IDE / OS =====
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.DotSettings
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== HybridCLR / IL2CPP (regenerate locally) =====
+HybridCLRData/
+
+# ===== YooAsset build / cache (rebuild after clone) =====
+[Bb]undles/
+yoo/
+Assets/StreamingAssets/yoo/**/*.bundle
+Assets/StreamingAssets/yoo/**/*.bytes
+Assets/StreamingAssets/yoo/**/*.hash
+Assets/StreamingAssets/yoo/**/*.json
+!Assets/StreamingAssets/yoo/**/.gitkeep
+
+# ===== Optional: strip AOT / hot-update DLL bytes (copy after HybridCLR Generate) =====
+# Uncomment if you prefer CI/build machine to produce DLLS:
+# Assets/DLLS/*.bytes
+
+# ===== Local / tooling =====
+.codely-cli/
+.com-unity-codely.json
+*.log
+*.tmp
+~$*
